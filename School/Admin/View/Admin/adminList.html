@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8"/>
+<title>后台管理系统</title>
+<meta name="author" content="DeathGhost" />
+<link rel="stylesheet" type="text/css" href="__PUBLIC__/Admin/css/style.css">
+<!--[if lt IE 9]>
+<script src="js/html5.js"></script>
+<![endif]-->
+<script src="__PUBLIC__/Admin/js/jquery.js"></script>
+<script src="__PUBLIC__/Admin/js/jquery.mCustomScrollbar.concat.min.js"></script>
+</head>
+<body>
+
+
+<section class=" content mCustomScrollbar">
+ <div class="rt_content">
+      <div class="page_title">
+       <h2 class="fl">管理员列表</h2>
+       <a href="__CONTROLLER__/addAdmin" class="fr top_rt_btn add_icon">添加新管理员</a>
+      </div>
+
+      <table class="table">
+       <tr>
+        <th>账号</th>
+        <th>姓名</th>
+        <th>手机长号</th>
+        <th>手机短号</th>
+        <th>电子邮箱</th>
+        <th>创建日期</th>
+        <th>操作</th>
+       </tr>
+	   <foreach name="adminMsgs" item="vo">
+       <tr>
+        <td class="center" >{$vo.name}</td>
+        <td class="center">{$vo.rname}</td>
+        <td class="center">{$vo.lphone}</td>
+        <td class="center">{$vo.sphone}</td>
+		<td class="center">{$vo.email}</td>
+		<td class="center">{$vo.cdate}</td>
+        <td class="center">
+         <a href="__CONTROLLER__/alterMyMsg/aid/{$vo.aid}/issuper/1/" title="编辑" class="link_icon">&#101;</a>
+         <a href="__CONTROLLER__/delAdmin/aid/{$vo.aid}" title="删除"  class="link_icon del">&#100;</a>
+        </td>
+       </tr>
+	   </foreach>
+      </table>
+      <aside class="paging">
+			{$page}
+      </aside>
+ </div>
+</section>
+<script language="javascript" type="text/javascript"  charset="UTF-8"
+		src="__PUBLIC__/Admin/js/admin/delAdmin.js">
+</script>
+
+</body>
+</html>

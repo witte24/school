@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8"/>
+<title>后台管理系统</title>
+<meta name="author" content="DeathGhost" />
+<link rel="stylesheet" type="text/css" href="__PUBLIC__/Admin/css/style.css">
+<script src="__PUBLIC__/Admin/js/jquery.js"></script>
+</head>
+<body>
+
+
+<section class=" content mCustomScrollbar">
+ <div class="rt_content">
+      <div class="page_title">
+       <h2 class="fl">团队列表</h2>
+       <a href="__CONTROLLER__/addTeam" class="fr top_rt_btn add_icon">添加团队</a>
+      </div>
+
+      <table class="table">
+       <tr>
+        <th>名称</th>
+        <th>博士人数</th>
+        <th>硕士人数</th>
+        <th>学士人数</th>
+        <th>总人数</th>
+        <th>创建日期</th>
+        <th>操作</th>
+       </tr>
+
+	   <foreach name="teamRes" item="vo" >
+       <tr>
+        <td class="center" >{$vo.name}</td>
+        <td class="center">10</td>
+        <td class="center">10</td>
+        <td class="center">5</td>
+		<td class="center">25</td>
+		<td class="center">{$vo.cdate}</td>
+        <td class="center">
+         <a href="__CONTROLLER__/alterTeam/teamid/{$vo.teamid}/name/{$vo.name}" title="编辑" class="link_icon">&#101;</a>
+         <a href="" title="删除"  class="link_icon del">&#100;</a>
+        </td>
+       </tr>
+	   </foreach>
+
+      </table>
+      <aside class="paging">
+			{$page}
+      </aside>
+ </div>
+</section>
+<script language="javascript" type="text/javascript"  charset="UTF-8"
+		src="__PUBLIC__/Admin/js/admin/delAdmin.js">
+</script>
+
+</body>
+</html>

@@ -1,0 +1,1141 @@
+[ 2016-04-13T21:48:44+08:00 ] 113.105.128.251 /school/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000070s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000534s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000589s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000033s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000083s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.004471s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.004521s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000123s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000162s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000453s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000497s ]
+
+[ 2016-04-13T21:50:39+08:00 ] 113.105.128.251 /school/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000329s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000463s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000514s ]
+INFO: [ view_parse ] --START--
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.000162s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.000213s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000166s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000230s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000423s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000470s ]
+
+[ 2016-04-13T21:51:20+08:00 ] 113.105.128.251 /school/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000290s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000424s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000473s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000364s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000410s ]
+
+[ 2016-04-13T22:07:08+08:00 ] 113.105.128.251 /school/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000414s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000395s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000445s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000043s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000111s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.004710s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.004758s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000124s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000163s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000472s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000516s ]
+
+[ 2016-04-13T22:07:08+08:00 ] 113.105.128.251 /school/Index/head
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000297s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000426s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000474s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000036s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000084s ]
+NOTIC: [8] Use of undefined constant ADMIN_CSS_URL - assumed 'ADMIN_CSS_URL' /wechat/school/School/Runtime/Cache/Admin/a244247bd7cc1a647c72f60747766620.php 第 5 行.
+NOTIC: [8] Use of undefined constant ADMIN_IMG_URL - assumed 'ADMIN_IMG_URL' /wechat/school/School/Runtime/Cache/Admin/a244247bd7cc1a647c72f60747766620.php 第 9 行.
+NOTIC: [8] Use of undefined constant ADMIN_IMG_URL - assumed 'ADMIN_IMG_URL' /wechat/school/School/Runtime/Cache/Admin/a244247bd7cc1a647c72f60747766620.php 第 11 行.
+NOTIC: [8] Undefined variable: manager /wechat/school/School/Runtime/Cache/Admin/a244247bd7cc1a647c72f60747766620.php 第 14 行.
+NOTIC: [8] Use of undefined constant ADMIN_IMG_URL - assumed 'ADMIN_IMG_URL' /wechat/school/School/Runtime/Cache/Admin/a244247bd7cc1a647c72f60747766620.php 第 21 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.004880s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.004922s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000120s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000158s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000440s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000482s ]
+
+[ 2016-04-13T22:07:08+08:00 ] 113.105.128.251 /school/Index/right
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000301s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001486s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001537s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000039s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000091s ]
+NOTIC: [8] Use of undefined constant ADMIN_CSS_URL - assumed 'ADMIN_CSS_URL' /wechat/school/School/Runtime/Cache/Admin/1fa19188395bb73be45f1aed45385f17.php 第 5 行.
+NOTIC: [8] Use of undefined constant ADMIN_IMG_URL - assumed 'ADMIN_IMG_URL' /wechat/school/School/Runtime/Cache/Admin/1fa19188395bb73be45f1aed45385f17.php 第 10 行.
+NOTIC: [8] Use of undefined constant ADMIN_IMG_URL - assumed 'ADMIN_IMG_URL' /wechat/school/School/Runtime/Cache/Admin/1fa19188395bb73be45f1aed45385f17.php 第 14 行.
+NOTIC: [8] Use of undefined constant ADMIN_IMG_URL - assumed 'ADMIN_IMG_URL' /wechat/school/School/Runtime/Cache/Admin/1fa19188395bb73be45f1aed45385f17.php 第 17 行.
+NOTIC: [8] Undefined variable: manager /wechat/school/School/Runtime/Cache/Admin/1fa19188395bb73be45f1aed45385f17.php 第 26 行.
+NOTIC: [8] Use of undefined constant ADMIN_IMG_URL - assumed 'ADMIN_IMG_URL' /wechat/school/School/Runtime/Cache/Admin/1fa19188395bb73be45f1aed45385f17.php 第 36 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.013653s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.013698s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000117s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000156s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000434s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001535s ]
+
+[ 2016-04-13T22:07:08+08:00 ] 113.105.128.251 /school/Index/left
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000275s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000452s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000506s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000039s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000090s ]
+NOTIC: [8] Use of undefined constant ADMIN_CSS_URL - assumed 'ADMIN_CSS_URL' /wechat/school/School/Runtime/Cache/Admin/56c27a997a5d22b062863a7455ec7195.php 第 4 行.
+NOTIC: [8] Use of undefined constant ADMIN_IMG_URL - assumed 'ADMIN_IMG_URL' /wechat/school/School/Runtime/Cache/Admin/56c27a997a5d22b062863a7455ec7195.php 第 23 行.
+NOTIC: [8] Use of undefined constant ADMIN_IMG_URL - assumed 'ADMIN_IMG_URL' /wechat/school/School/Runtime/Cache/Admin/56c27a997a5d22b062863a7455ec7195.php 第 33 行.
+NOTIC: [8] Use of undefined constant ADMIN_IMG_URL - assumed 'ADMIN_IMG_URL' /wechat/school/School/Runtime/Cache/Admin/56c27a997a5d22b062863a7455ec7195.php 第 38 行.
+NOTIC: [8] Use of undefined constant ADMIN_IMG_URL - assumed 'ADMIN_IMG_URL' /wechat/school/School/Runtime/Cache/Admin/56c27a997a5d22b062863a7455ec7195.php 第 41 行.
+NOTIC: [8] Use of undefined constant ADMIN_IMG_URL - assumed 'ADMIN_IMG_URL' /wechat/school/School/Runtime/Cache/Admin/56c27a997a5d22b062863a7455ec7195.php 第 44 行.
+NOTIC: [8] Use of undefined constant ADMIN_IMG_URL - assumed 'ADMIN_IMG_URL' /wechat/school/School/Runtime/Cache/Admin/56c27a997a5d22b062863a7455ec7195.php 第 47 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.008097s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.008141s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001170s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001211s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000380s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000421s ]
+
+[ 2016-04-13T22:07:08+08:00 ] 113.105.128.251 /school/Index/ADMIN_CSS_URLadmin.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000276s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000367s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000414s ]
+ERR: 非法操作:ADMIN_CSS_URLadmin.css
+
+[ 2016-04-13T22:07:08+08:00 ] 113.105.128.251 /school/Index/ADMIN_IMG_URLheader_right.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000289s ]
+
+[ 2016-04-13T22:07:08+08:00 ] 113.105.128.251 /school/Index/ADMIN_IMG_URLheader_left.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000320s ]
+
+[ 2016-04-13T22:07:08+08:00 ] 113.105.128.251 /school/Index/ADMIN_IMG_URLadmin_p.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000311s ]
+
+[ 2016-04-13T22:07:08+08:00 ] 113.105.128.251 /school/Index/ADMIN_IMG_URLmenu_icon.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001369s ]
+
+[ 2016-04-13T22:07:08+08:00 ] 113.105.128.251 /school/Index/ADMIN_CSS_URLadmin.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000290s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000430s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000483s ]
+ERR: 非法操作:ADMIN_CSS_URLadmin.css
+
+[ 2016-04-13T22:07:08+08:00 ] 113.105.128.251 /school/Index/ADMIN_IMG_URLtitle_bg2.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000328s ]
+
+[ 2016-04-13T22:07:08+08:00 ] 113.105.128.251 /school/Index/ADMIN_IMG_URLtitle_bg1.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000289s ]
+
+[ 2016-04-13T22:07:08+08:00 ] 113.105.128.251 /school/Index/ADMIN_IMG_URLshadow_bg.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000349s ]
+
+[ 2016-04-13T22:07:08+08:00 ] 113.105.128.251 /school/Index/ADMIN_IMG_URLheader_bg.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000300s ]
+
+[ 2016-04-13T22:07:08+08:00 ] 113.105.128.251 /school/Index/ADMIN_IMG_URLmenu_icon.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000284s ]
+
+[ 2016-04-13T22:07:08+08:00 ] 113.105.128.251 /school/Index/ADMIN_IMG_URLmenu_bg.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000356s ]
+
+[ 2016-04-13T22:07:08+08:00 ] 113.105.128.251 /school/Index/ADMIN_IMG_URLmenu_bt.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000282s ]
+
+[ 2016-04-13T22:07:13+08:00 ] 113.105.128.251 /school/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000298s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000423s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000486s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000036s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000086s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.004583s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.004632s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000386s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000487s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000665s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000752s ]
+
+[ 2016-04-13T22:07:13+08:00 ] 113.105.128.251 /school/Index/right
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002351s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001857s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001906s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000038s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000086s ]
+NOTIC: [8] Use of undefined constant ADMIN_CSS_URL - assumed 'ADMIN_CSS_URL' /wechat/school/School/Runtime/Cache/Admin/1fa19188395bb73be45f1aed45385f17.php 第 5 行.
+NOTIC: [8] Use of undefined constant ADMIN_IMG_URL - assumed 'ADMIN_IMG_URL' /wechat/school/School/Runtime/Cache/Admin/1fa19188395bb73be45f1aed45385f17.php 第 10 行.
+NOTIC: [8] Use of undefined constant ADMIN_IMG_URL - assumed 'ADMIN_IMG_URL' /wechat/school/School/Runtime/Cache/Admin/1fa19188395bb73be45f1aed45385f17.php 第 14 行.
+NOTIC: [8] Use of undefined constant ADMIN_IMG_URL - assumed 'ADMIN_IMG_URL' /wechat/school/School/Runtime/Cache/Admin/1fa19188395bb73be45f1aed45385f17.php 第 17 行.
+NOTIC: [8] Undefined variable: manager /wechat/school/School/Runtime/Cache/Admin/1fa19188395bb73be45f1aed45385f17.php 第 26 行.
+NOTIC: [8] Use of undefined constant ADMIN_IMG_URL - assumed 'ADMIN_IMG_URL' /wechat/school/School/Runtime/Cache/Admin/1fa19188395bb73be45f1aed45385f17.php 第 36 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.008498s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.008541s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000119s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000158s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000475s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000517s ]
+
+[ 2016-04-13T22:07:13+08:00 ] 113.105.128.251 /school/Index/left
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001073s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003122s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003171s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000038s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000087s ]
+NOTIC: [8] Use of undefined constant ADMIN_CSS_URL - assumed 'ADMIN_CSS_URL' /wechat/school/School/Runtime/Cache/Admin/56c27a997a5d22b062863a7455ec7195.php 第 4 行.
+NOTIC: [8] Use of undefined constant ADMIN_IMG_URL - assumed 'ADMIN_IMG_URL' /wechat/school/School/Runtime/Cache/Admin/56c27a997a5d22b062863a7455ec7195.php 第 23 行.
+NOTIC: [8] Use of undefined constant ADMIN_IMG_URL - assumed 'ADMIN_IMG_URL' /wechat/school/School/Runtime/Cache/Admin/56c27a997a5d22b062863a7455ec7195.php 第 33 行.
+NOTIC: [8] Use of undefined constant ADMIN_IMG_URL - assumed 'ADMIN_IMG_URL' /wechat/school/School/Runtime/Cache/Admin/56c27a997a5d22b062863a7455ec7195.php 第 38 行.
+NOTIC: [8] Use of undefined constant ADMIN_IMG_URL - assumed 'ADMIN_IMG_URL' /wechat/school/School/Runtime/Cache/Admin/56c27a997a5d22b062863a7455ec7195.php 第 41 行.
+NOTIC: [8] Use of undefined constant ADMIN_IMG_URL - assumed 'ADMIN_IMG_URL' /wechat/school/School/Runtime/Cache/Admin/56c27a997a5d22b062863a7455ec7195.php 第 44 行.
+NOTIC: [8] Use of undefined constant ADMIN_IMG_URL - assumed 'ADMIN_IMG_URL' /wechat/school/School/Runtime/Cache/Admin/56c27a997a5d22b062863a7455ec7195.php 第 47 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.006260s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.006303s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000123s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000162s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000388s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000430s ]
+
+[ 2016-04-13T22:07:13+08:00 ] 113.105.128.251 /school/Index/head
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000278s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000367s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000417s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000035s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000084s ]
+NOTIC: [8] Use of undefined constant ADMIN_CSS_URL - assumed 'ADMIN_CSS_URL' /wechat/school/School/Runtime/Cache/Admin/a244247bd7cc1a647c72f60747766620.php 第 5 行.
+NOTIC: [8] Use of undefined constant ADMIN_IMG_URL - assumed 'ADMIN_IMG_URL' /wechat/school/School/Runtime/Cache/Admin/a244247bd7cc1a647c72f60747766620.php 第 9 行.
+NOTIC: [8] Use of undefined constant ADMIN_IMG_URL - assumed 'ADMIN_IMG_URL' /wechat/school/School/Runtime/Cache/Admin/a244247bd7cc1a647c72f60747766620.php 第 11 行.
+NOTIC: [8] Undefined variable: manager /wechat/school/School/Runtime/Cache/Admin/a244247bd7cc1a647c72f60747766620.php 第 14 行.
+NOTIC: [8] Use of undefined constant ADMIN_IMG_URL - assumed 'ADMIN_IMG_URL' /wechat/school/School/Runtime/Cache/Admin/a244247bd7cc1a647c72f60747766620.php 第 21 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.005556s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.005599s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000121s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000160s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000385s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000426s ]
+
+[ 2016-04-13T22:07:13+08:00 ] 113.105.128.251 /school/Index/ADMIN_IMG_URLadmin_p.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000292s ]
+
+[ 2016-04-13T22:07:13+08:00 ] 113.105.128.251 /school/Index/ADMIN_CSS_URLadmin.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000301s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003486s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003536s ]
+ERR: 非法操作:ADMIN_CSS_URLadmin.css
+
+[ 2016-04-13T22:07:13+08:00 ] 113.105.128.251 /school/Index/ADMIN_IMG_URLmenu_icon.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003479s ]
+
+[ 2016-04-13T22:07:13+08:00 ] 113.105.128.251 /school/Index/ADMIN_IMG_URLheader_right.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000649s ]
+
+[ 2016-04-13T22:07:13+08:00 ] 113.105.128.251 /school/Index/ADMIN_IMG_URLheader_left.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002223s ]
+
+[ 2016-04-13T22:07:13+08:00 ] 113.105.128.251 /school/Index/ADMIN_IMG_URLmenu_bt.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.005366s ]
+
+[ 2016-04-13T22:07:13+08:00 ] 113.105.128.251 /school/Index/ADMIN_IMG_URLmenu_bg.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000307s ]
+
+[ 2016-04-13T22:07:13+08:00 ] 113.105.128.251 /school/Index/ADMIN_IMG_URLtitle_bg1.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002362s ]
+
+[ 2016-04-13T22:07:13+08:00 ] 113.105.128.251 /school/Index/ADMIN_IMG_URLtitle_bg2.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000328s ]
+
+[ 2016-04-13T22:07:13+08:00 ] 113.105.128.251 /school/Index/ADMIN_IMG_URLshadow_bg.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000321s ]
+
+[ 2016-04-13T22:07:13+08:00 ] 113.105.128.251 /school/Index/ADMIN_IMG_URLheader_bg.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.004451s ]
+
+[ 2016-04-13T22:07:26+08:00 ] 113.105.128.251 /school/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000293s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000378s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000428s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000037s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000086s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.004642s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.004689s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000116s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000153s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000444s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000487s ]
+
+[ 2016-04-13T22:07:27+08:00 ] 113.105.128.251 /school/Index/head
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000288s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000417s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000464s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000038s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000090s ]
+NOTIC: [8] Use of undefined constant ADMIN_CSS_URL - assumed 'ADMIN_CSS_URL' /wechat/school/School/Runtime/Cache/Admin/a244247bd7cc1a647c72f60747766620.php 第 5 行.
+NOTIC: [8] Use of undefined constant ADMIN_IMG_URL - assumed 'ADMIN_IMG_URL' /wechat/school/School/Runtime/Cache/Admin/a244247bd7cc1a647c72f60747766620.php 第 9 行.
+NOTIC: [8] Use of undefined constant ADMIN_IMG_URL - assumed 'ADMIN_IMG_URL' /wechat/school/School/Runtime/Cache/Admin/a244247bd7cc1a647c72f60747766620.php 第 11 行.
+NOTIC: [8] Undefined variable: manager /wechat/school/School/Runtime/Cache/Admin/a244247bd7cc1a647c72f60747766620.php 第 14 行.
+NOTIC: [8] Use of undefined constant ADMIN_IMG_URL - assumed 'ADMIN_IMG_URL' /wechat/school/School/Runtime/Cache/Admin/a244247bd7cc1a647c72f60747766620.php 第 21 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.004897s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.004940s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000120s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000158s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000472s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000514s ]
+
+[ 2016-04-13T22:07:27+08:00 ] 113.105.128.251 /school/Index/right
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000309s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002143s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002190s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000053s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000112s ]
+NOTIC: [8] Use of undefined constant ADMIN_CSS_URL - assumed 'ADMIN_CSS_URL' /wechat/school/School/Runtime/Cache/Admin/1fa19188395bb73be45f1aed45385f17.php 第 5 行.
+NOTIC: [8] Use of undefined constant ADMIN_IMG_URL - assumed 'ADMIN_IMG_URL' /wechat/school/School/Runtime/Cache/Admin/1fa19188395bb73be45f1aed45385f17.php 第 10 行.
+NOTIC: [8] Use of undefined constant ADMIN_IMG_URL - assumed 'ADMIN_IMG_URL' /wechat/school/School/Runtime/Cache/Admin/1fa19188395bb73be45f1aed45385f17.php 第 14 行.
+NOTIC: [8] Use of undefined constant ADMIN_IMG_URL - assumed 'ADMIN_IMG_URL' /wechat/school/School/Runtime/Cache/Admin/1fa19188395bb73be45f1aed45385f17.php 第 17 行.
+NOTIC: [8] Undefined variable: manager /wechat/school/School/Runtime/Cache/Admin/1fa19188395bb73be45f1aed45385f17.php 第 26 行.
+NOTIC: [8] Use of undefined constant ADMIN_IMG_URL - assumed 'ADMIN_IMG_URL' /wechat/school/School/Runtime/Cache/Admin/1fa19188395bb73be45f1aed45385f17.php 第 36 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.010714s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.010758s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000121s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000160s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000413s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000455s ]
+
+[ 2016-04-13T22:07:27+08:00 ] 113.105.128.251 /school/Index/left
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002383s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000795s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000841s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000049s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000123s ]
+NOTIC: [8] Use of undefined constant ADMIN_CSS_URL - assumed 'ADMIN_CSS_URL' /wechat/school/School/Runtime/Cache/Admin/56c27a997a5d22b062863a7455ec7195.php 第 4 行.
+NOTIC: [8] Use of undefined constant ADMIN_IMG_URL - assumed 'ADMIN_IMG_URL' /wechat/school/School/Runtime/Cache/Admin/56c27a997a5d22b062863a7455ec7195.php 第 23 行.
+NOTIC: [8] Use of undefined constant ADMIN_IMG_URL - assumed 'ADMIN_IMG_URL' /wechat/school/School/Runtime/Cache/Admin/56c27a997a5d22b062863a7455ec7195.php 第 33 行.
+NOTIC: [8] Use of undefined constant ADMIN_IMG_URL - assumed 'ADMIN_IMG_URL' /wechat/school/School/Runtime/Cache/Admin/56c27a997a5d22b062863a7455ec7195.php 第 38 行.
+NOTIC: [8] Use of undefined constant ADMIN_IMG_URL - assumed 'ADMIN_IMG_URL' /wechat/school/School/Runtime/Cache/Admin/56c27a997a5d22b062863a7455ec7195.php 第 41 行.
+NOTIC: [8] Use of undefined constant ADMIN_IMG_URL - assumed 'ADMIN_IMG_URL' /wechat/school/School/Runtime/Cache/Admin/56c27a997a5d22b062863a7455ec7195.php 第 44 行.
+NOTIC: [8] Use of undefined constant ADMIN_IMG_URL - assumed 'ADMIN_IMG_URL' /wechat/school/School/Runtime/Cache/Admin/56c27a997a5d22b062863a7455ec7195.php 第 47 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.006863s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.006917s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000130s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000175s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000448s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000494s ]
+
+[ 2016-04-13T22:07:27+08:00 ] 113.105.128.251 /school/Index/ADMIN_CSS_URLadmin.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.001163s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001437s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000382s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000428s ]
+ERR: 非法操作:ADMIN_CSS_URLadmin.css
+
+[ 2016-04-13T22:07:27+08:00 ] 113.105.128.251 /school/Index/ADMIN_IMG_URLheader_right.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.001025s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001490s ]
+
+[ 2016-04-13T22:07:27+08:00 ] 113.105.128.251 /school/Index/ADMIN_IMG_URLheader_left.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000358s ]
+
+[ 2016-04-13T22:07:27+08:00 ] 113.105.128.251 /school/Index/ADMIN_IMG_URLadmin_p.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002812s ]
+
+[ 2016-04-13T22:07:27+08:00 ] 113.105.128.251 /school/Index/ADMIN_IMG_URLheader_bg.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000281s ]
+
+[ 2016-04-13T22:07:27+08:00 ] 113.105.128.251 /school/Index/ADMIN_IMG_URLtitle_bg1.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001331s ]
+
+[ 2016-04-13T22:07:27+08:00 ] 113.105.128.251 /school/Index/ADMIN_CSS_URLadmin.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000286s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001045s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001095s ]
+ERR: 非法操作:ADMIN_CSS_URLadmin.css
+
+[ 2016-04-13T22:07:27+08:00 ] 113.105.128.251 /school/Index/ADMIN_IMG_URLtitle_bg2.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000298s ]
+
+[ 2016-04-13T22:07:27+08:00 ] 113.105.128.251 /school/Index/ADMIN_IMG_URLshadow_bg.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001386s ]
+
+[ 2016-04-13T22:07:27+08:00 ] 113.105.128.251 /school/Index/ADMIN_IMG_URLmenu_icon.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000278s ]
+
+[ 2016-04-13T22:07:27+08:00 ] 113.105.128.251 /school/Index/ADMIN_IMG_URLmenu_bt.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000311s ]
+
+[ 2016-04-13T22:07:27+08:00 ] 113.105.128.251 /school/Index/ADMIN_IMG_URLmenu_bg.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000333s ]
+
+[ 2016-04-13T22:07:35+08:00 ] 113.105.128.251 /school/Article/showArticle
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000294s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000436s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000483s ]
+ERR: 无法加载控制器:Article
+
+[ 2016-04-13T22:07:51+08:00 ] 113.105.128.251 /school/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000345s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000365s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000412s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000036s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000085s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.004565s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.004613s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000116s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000155s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000439s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000482s ]
+
+[ 2016-04-13T22:07:52+08:00 ] 113.105.128.251 /school/Index/left
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000305s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002470s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002520s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000048s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000102s ]
+NOTIC: [8] Use of undefined constant ADMIN_CSS_URL - assumed 'ADMIN_CSS_URL' /wechat/school/School/Runtime/Cache/Admin/56c27a997a5d22b062863a7455ec7195.php 第 4 行.
+NOTIC: [8] Use of undefined constant ADMIN_IMG_URL - assumed 'ADMIN_IMG_URL' /wechat/school/School/Runtime/Cache/Admin/56c27a997a5d22b062863a7455ec7195.php 第 23 行.
+NOTIC: [8] Use of undefined constant ADMIN_IMG_URL - assumed 'ADMIN_IMG_URL' /wechat/school/School/Runtime/Cache/Admin/56c27a997a5d22b062863a7455ec7195.php 第 33 行.
+NOTIC: [8] Use of undefined constant ADMIN_IMG_URL - assumed 'ADMIN_IMG_URL' /wechat/school/School/Runtime/Cache/Admin/56c27a997a5d22b062863a7455ec7195.php 第 38 行.
+NOTIC: [8] Use of undefined constant ADMIN_IMG_URL - assumed 'ADMIN_IMG_URL' /wechat/school/School/Runtime/Cache/Admin/56c27a997a5d22b062863a7455ec7195.php 第 41 行.
+NOTIC: [8] Use of undefined constant ADMIN_IMG_URL - assumed 'ADMIN_IMG_URL' /wechat/school/School/Runtime/Cache/Admin/56c27a997a5d22b062863a7455ec7195.php 第 44 行.
+NOTIC: [8] Use of undefined constant ADMIN_IMG_URL - assumed 'ADMIN_IMG_URL' /wechat/school/School/Runtime/Cache/Admin/56c27a997a5d22b062863a7455ec7195.php 第 47 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.006271s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.006317s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000121s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000164s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000415s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000462s ]
+
+[ 2016-04-13T22:07:52+08:00 ] 113.105.128.251 /school/Index/head
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000275s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002425s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002473s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000037s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000089s ]
+NOTIC: [8] Use of undefined constant ADMIN_CSS_URL - assumed 'ADMIN_CSS_URL' /wechat/school/School/Runtime/Cache/Admin/a244247bd7cc1a647c72f60747766620.php 第 5 行.
+NOTIC: [8] Use of undefined constant ADMIN_IMG_URL - assumed 'ADMIN_IMG_URL' /wechat/school/School/Runtime/Cache/Admin/a244247bd7cc1a647c72f60747766620.php 第 9 行.
+NOTIC: [8] Use of undefined constant ADMIN_IMG_URL - assumed 'ADMIN_IMG_URL' /wechat/school/School/Runtime/Cache/Admin/a244247bd7cc1a647c72f60747766620.php 第 11 行.
+NOTIC: [8] Undefined variable: manager /wechat/school/School/Runtime/Cache/Admin/a244247bd7cc1a647c72f60747766620.php 第 14 行.
+NOTIC: [8] Use of undefined constant ADMIN_IMG_URL - assumed 'ADMIN_IMG_URL' /wechat/school/School/Runtime/Cache/Admin/a244247bd7cc1a647c72f60747766620.php 第 21 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.005963s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.006006s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000122s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000159s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000452s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000494s ]
+
+[ 2016-04-13T22:07:52+08:00 ] 113.105.128.251 /school/Index/right
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002385s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000536s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000586s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000048s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000105s ]
+NOTIC: [8] Use of undefined constant ADMIN_CSS_URL - assumed 'ADMIN_CSS_URL' /wechat/school/School/Runtime/Cache/Admin/1fa19188395bb73be45f1aed45385f17.php 第 5 行.
+NOTIC: [8] Use of undefined constant ADMIN_IMG_URL - assumed 'ADMIN_IMG_URL' /wechat/school/School/Runtime/Cache/Admin/1fa19188395bb73be45f1aed45385f17.php 第 10 行.
+NOTIC: [8] Use of undefined constant ADMIN_IMG_URL - assumed 'ADMIN_IMG_URL' /wechat/school/School/Runtime/Cache/Admin/1fa19188395bb73be45f1aed45385f17.php 第 14 行.
+NOTIC: [8] Use of undefined constant ADMIN_IMG_URL - assumed 'ADMIN_IMG_URL' /wechat/school/School/Runtime/Cache/Admin/1fa19188395bb73be45f1aed45385f17.php 第 17 行.
+NOTIC: [8] Undefined variable: manager /wechat/school/School/Runtime/Cache/Admin/1fa19188395bb73be45f1aed45385f17.php 第 26 行.
+NOTIC: [8] Use of undefined constant ADMIN_IMG_URL - assumed 'ADMIN_IMG_URL' /wechat/school/School/Runtime/Cache/Admin/1fa19188395bb73be45f1aed45385f17.php 第 36 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.006854s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.007008s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000155s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000261s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000440s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000493s ]
+
+[ 2016-04-13T22:07:52+08:00 ] 113.105.128.251 /school/Index/ADMIN_IMG_URLheader_left.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000303s ]
+
+[ 2016-04-13T22:07:52+08:00 ] 113.105.128.251 /school/Index/ADMIN_IMG_URLmenu_icon.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003397s ]
+
+[ 2016-04-13T22:07:52+08:00 ] 113.105.128.251 /school/Index/ADMIN_CSS_URLadmin.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001715s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000432s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001554s ]
+ERR: 非法操作:ADMIN_CSS_URLadmin.css
+
+[ 2016-04-13T22:07:52+08:00 ] 113.105.128.251 /school/Index/ADMIN_IMG_URLadmin_p.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000298s ]
+
+[ 2016-04-13T22:07:52+08:00 ] 113.105.128.251 /school/Index/ADMIN_IMG_URLheader_right.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000308s ]
+
+[ 2016-04-13T22:07:52+08:00 ] 113.105.128.251 /school/Index/ADMIN_IMG_URLheader_bg.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002362s ]
+
+[ 2016-04-13T22:07:52+08:00 ] 113.105.128.251 /school/Index/ADMIN_IMG_URLtitle_bg2.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000342s ]
+
+[ 2016-04-13T22:07:52+08:00 ] 113.105.128.251 /school/Index/ADMIN_IMG_URLtitle_bg1.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000281s ]
+
+[ 2016-04-13T22:07:52+08:00 ] 113.105.128.251 /school/Index/ADMIN_IMG_URLshadow_bg.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000288s ]
+
+[ 2016-04-13T22:07:52+08:00 ] 113.105.128.251 /school/Index/ADMIN_IMG_URLmenu_icon.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000286s ]
+
+[ 2016-04-13T22:07:52+08:00 ] 113.105.128.251 /school/Index/ADMIN_IMG_URLmenu_bt.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001368s ]
+
+[ 2016-04-13T22:07:52+08:00 ] 113.105.128.251 /school/Index/ADMIN_IMG_URLmenu_bg.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000377s ]
+
+[ 2016-04-13T22:11:55+08:00 ] 113.105.128.251 /school/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000350s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000372s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000419s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000046s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000123s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.005019s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.005069s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000124s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000163s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000417s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000460s ]
+
+[ 2016-04-13T22:11:55+08:00 ] 113.105.128.251 /school/Index/left
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002362s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000371s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000418s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000042s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000091s ]
+NOTIC: [8] Use of undefined constant ADMIN_IMG_URL - assumed 'ADMIN_IMG_URL' /wechat/school/School/Runtime/Cache/Admin/56c27a997a5d22b062863a7455ec7195.php 第 23 行.
+NOTIC: [8] Use of undefined constant ADMIN_IMG_URL - assumed 'ADMIN_IMG_URL' /wechat/school/School/Runtime/Cache/Admin/56c27a997a5d22b062863a7455ec7195.php 第 33 行.
+NOTIC: [8] Use of undefined constant ADMIN_IMG_URL - assumed 'ADMIN_IMG_URL' /wechat/school/School/Runtime/Cache/Admin/56c27a997a5d22b062863a7455ec7195.php 第 38 行.
+NOTIC: [8] Use of undefined constant ADMIN_IMG_URL - assumed 'ADMIN_IMG_URL' /wechat/school/School/Runtime/Cache/Admin/56c27a997a5d22b062863a7455ec7195.php 第 41 行.
+NOTIC: [8] Use of undefined constant ADMIN_IMG_URL - assumed 'ADMIN_IMG_URL' /wechat/school/School/Runtime/Cache/Admin/56c27a997a5d22b062863a7455ec7195.php 第 44 行.
+NOTIC: [8] Use of undefined constant ADMIN_IMG_URL - assumed 'ADMIN_IMG_URL' /wechat/school/School/Runtime/Cache/Admin/56c27a997a5d22b062863a7455ec7195.php 第 47 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.005538s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.005581s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000119s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000158s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000385s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000479s ]
+
+[ 2016-04-13T22:11:55+08:00 ] 113.105.128.251 /school/Index/right
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002352s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000364s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000409s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000043s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000116s ]
+NOTIC: [8] Use of undefined constant ADMIN_IMG_URL - assumed 'ADMIN_IMG_URL' /wechat/school/School/Runtime/Cache/Admin/1fa19188395bb73be45f1aed45385f17.php 第 10 行.
+NOTIC: [8] Use of undefined constant ADMIN_IMG_URL - assumed 'ADMIN_IMG_URL' /wechat/school/School/Runtime/Cache/Admin/1fa19188395bb73be45f1aed45385f17.php 第 14 行.
+NOTIC: [8] Use of undefined constant ADMIN_IMG_URL - assumed 'ADMIN_IMG_URL' /wechat/school/School/Runtime/Cache/Admin/1fa19188395bb73be45f1aed45385f17.php 第 17 行.
+NOTIC: [8] Undefined variable: manager /wechat/school/School/Runtime/Cache/Admin/1fa19188395bb73be45f1aed45385f17.php 第 26 行.
+NOTIC: [8] Use of undefined constant ADMIN_IMG_URL - assumed 'ADMIN_IMG_URL' /wechat/school/School/Runtime/Cache/Admin/1fa19188395bb73be45f1aed45385f17.php 第 36 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.006388s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.006431s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000120s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000159s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000453s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000495s ]
+
+[ 2016-04-13T22:11:55+08:00 ] 113.105.128.251 /school/Index/head
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002288s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000359s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000403s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000039s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000090s ]
+NOTIC: [8] Use of undefined constant ADMIN_IMG_URL - assumed 'ADMIN_IMG_URL' /wechat/school/School/Runtime/Cache/Admin/a244247bd7cc1a647c72f60747766620.php 第 9 行.
+NOTIC: [8] Use of undefined constant ADMIN_IMG_URL - assumed 'ADMIN_IMG_URL' /wechat/school/School/Runtime/Cache/Admin/a244247bd7cc1a647c72f60747766620.php 第 11 行.
+NOTIC: [8] Undefined variable: manager /wechat/school/School/Runtime/Cache/Admin/a244247bd7cc1a647c72f60747766620.php 第 14 行.
+NOTIC: [8] Use of undefined constant ADMIN_IMG_URL - assumed 'ADMIN_IMG_URL' /wechat/school/School/Runtime/Cache/Admin/a244247bd7cc1a647c72f60747766620.php 第 21 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.005547s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.005593s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000120s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000163s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000447s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000489s ]
+
+[ 2016-04-13T22:11:55+08:00 ] 113.105.128.251 /school/Index/ADMIN_IMG_URLheader_left.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003359s ]
+
+[ 2016-04-13T22:11:55+08:00 ] 113.105.128.251 /school/Index/ADMIN_IMG_URLheader_right.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000278s ]
+
+[ 2016-04-13T22:11:55+08:00 ] 113.105.128.251 /school/Index/ADMIN_IMG_URLadmin_p.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000301s ]
+
+[ 2016-04-13T22:11:55+08:00 ] 113.105.128.251 /school/Index/ADMIN_IMG_URLmenu_icon.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000026s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000378s ]
+
+[ 2016-04-13T22:11:55+08:00 ] 113.105.128.251 /school/Index/ADMIN_IMG_URLmenu_bg.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000285s ]
+
+[ 2016-04-13T22:11:55+08:00 ] 113.105.128.251 /school/Index/ADMIN_IMG_URLmenu_bt.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000300s ]
+
+[ 2016-04-13T22:11:55+08:00 ] 113.105.128.251 /school/Index/ADMIN_IMG_URLtitle_bg1.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000286s ]
+
+[ 2016-04-13T22:11:55+08:00 ] 113.105.128.251 /school/Index/ADMIN_IMG_URLtitle_bg2.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003341s ]
+
+[ 2016-04-13T22:11:55+08:00 ] 113.105.128.251 /school/Index/ADMIN_IMG_URLshadow_bg.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000329s ]
+
+[ 2016-04-13T22:11:55+08:00 ] 113.105.128.251 /school/Index/ADMIN_IMG_URLheader_bg.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000292s ]
+
+[ 2016-04-13T22:11:56+08:00 ] 113.105.128.251 /school/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000344s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000369s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000420s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000038s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000086s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.004676s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.004724s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000117s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000156s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000444s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000487s ]
+
+[ 2016-04-13T22:11:56+08:00 ] 113.105.128.251 /school/Index/right
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000292s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002446s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002495s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000041s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000094s ]
+NOTIC: [8] Use of undefined constant ADMIN_IMG_URL - assumed 'ADMIN_IMG_URL' /wechat/school/School/Runtime/Cache/Admin/1fa19188395bb73be45f1aed45385f17.php 第 10 行.
+NOTIC: [8] Use of undefined constant ADMIN_IMG_URL - assumed 'ADMIN_IMG_URL' /wechat/school/School/Runtime/Cache/Admin/1fa19188395bb73be45f1aed45385f17.php 第 14 行.
+NOTIC: [8] Use of undefined constant ADMIN_IMG_URL - assumed 'ADMIN_IMG_URL' /wechat/school/School/Runtime/Cache/Admin/1fa19188395bb73be45f1aed45385f17.php 第 17 行.
+NOTIC: [8] Undefined variable: manager /wechat/school/School/Runtime/Cache/Admin/1fa19188395bb73be45f1aed45385f17.php 第 26 行.
+NOTIC: [8] Use of undefined constant ADMIN_IMG_URL - assumed 'ADMIN_IMG_URL' /wechat/school/School/Runtime/Cache/Admin/1fa19188395bb73be45f1aed45385f17.php 第 36 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.007212s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.007254s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000123s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000210s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000406s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000448s ]
+
+[ 2016-04-13T22:11:56+08:00 ] 113.105.128.251 /school/Index/left
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002361s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002592s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002645s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000051s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000118s ]
+NOTIC: [8] Use of undefined constant ADMIN_IMG_URL - assumed 'ADMIN_IMG_URL' /wechat/school/School/Runtime/Cache/Admin/56c27a997a5d22b062863a7455ec7195.php 第 23 行.
+NOTIC: [8] Use of undefined constant ADMIN_IMG_URL - assumed 'ADMIN_IMG_URL' /wechat/school/School/Runtime/Cache/Admin/56c27a997a5d22b062863a7455ec7195.php 第 33 行.
+NOTIC: [8] Use of undefined constant ADMIN_IMG_URL - assumed 'ADMIN_IMG_URL' /wechat/school/School/Runtime/Cache/Admin/56c27a997a5d22b062863a7455ec7195.php 第 38 行.
+NOTIC: [8] Use of undefined constant ADMIN_IMG_URL - assumed 'ADMIN_IMG_URL' /wechat/school/School/Runtime/Cache/Admin/56c27a997a5d22b062863a7455ec7195.php 第 41 行.
+NOTIC: [8] Use of undefined constant ADMIN_IMG_URL - assumed 'ADMIN_IMG_URL' /wechat/school/School/Runtime/Cache/Admin/56c27a997a5d22b062863a7455ec7195.php 第 44 行.
+NOTIC: [8] Use of undefined constant ADMIN_IMG_URL - assumed 'ADMIN_IMG_URL' /wechat/school/School/Runtime/Cache/Admin/56c27a997a5d22b062863a7455ec7195.php 第 47 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.007055s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.007103s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000126s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000169s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000509s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000572s ]
+
+[ 2016-04-13T22:11:56+08:00 ] 113.105.128.251 /school/Index/head
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000275s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001430s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001481s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000040s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000093s ]
+NOTIC: [8] Use of undefined constant ADMIN_IMG_URL - assumed 'ADMIN_IMG_URL' /wechat/school/School/Runtime/Cache/Admin/a244247bd7cc1a647c72f60747766620.php 第 9 行.
+NOTIC: [8] Use of undefined constant ADMIN_IMG_URL - assumed 'ADMIN_IMG_URL' /wechat/school/School/Runtime/Cache/Admin/a244247bd7cc1a647c72f60747766620.php 第 11 行.
+NOTIC: [8] Undefined variable: manager /wechat/school/School/Runtime/Cache/Admin/a244247bd7cc1a647c72f60747766620.php 第 14 行.
+NOTIC: [8] Use of undefined constant ADMIN_IMG_URL - assumed 'ADMIN_IMG_URL' /wechat/school/School/Runtime/Cache/Admin/a244247bd7cc1a647c72f60747766620.php 第 21 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.006004s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.006063s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000124s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000164s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000389s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000430s ]
+
+[ 2016-04-13T22:11:56+08:00 ] 113.105.128.251 /school/Index/ADMIN_IMG_URLadmin_p.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000319s ]
+
+[ 2016-04-13T22:11:56+08:00 ] 113.105.128.251 /school/Index/ADMIN_IMG_URLmenu_icon.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000308s ]
+
+[ 2016-04-13T22:11:56+08:00 ] 113.105.128.251 /school/Index/ADMIN_IMG_URLheader_right.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001358s ]
+
+[ 2016-04-13T22:11:56+08:00 ] 113.105.128.251 /school/Index/ADMIN_IMG_URLheader_left.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000280s ]
+
+[ 2016-04-13T22:11:56+08:00 ] 113.105.128.251 /school/Index/ADMIN_IMG_URLmenu_bt.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000285s ]
+
+[ 2016-04-13T22:11:56+08:00 ] 113.105.128.251 /school/Index/ADMIN_IMG_URLmenu_bg.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000295s ]
+
+[ 2016-04-13T22:11:56+08:00 ] 113.105.128.251 /school/Index/ADMIN_IMG_URLheader_bg.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000458s ]
+
+[ 2016-04-13T22:11:56+08:00 ] 113.105.128.251 /school/Index/ADMIN_IMG_URLshadow_bg.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000286s ]
+
+[ 2016-04-13T22:11:56+08:00 ] 113.105.128.251 /school/Index/ADMIN_IMG_URLtitle_bg1.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000265s ]
+
+[ 2016-04-13T22:11:56+08:00 ] 113.105.128.251 /school/Index/ADMIN_IMG_URLtitle_bg2.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000268s ]
+
+[ 2016-04-13T22:12:57+08:00 ] 113.105.128.251 /school/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000344s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000360s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000406s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000035s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000083s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.004445s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.004491s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000115s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000153s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000685s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000736s ]
+
+[ 2016-04-13T22:12:57+08:00 ] 113.105.128.251 /school/Index/left
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000294s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002476s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002522s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000049s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000103s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.008396s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.008447s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000119s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000157s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000425s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000471s ]
+
+[ 2016-04-13T22:12:57+08:00 ] 113.105.128.251 /school/Index/right
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000288s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002677s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002734s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000068s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000124s ]
+NOTIC: [8] Undefined variable: manager /wechat/school/School/Runtime/Cache/Admin/1fa19188395bb73be45f1aed45385f17.php 第 26 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.006752s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.006801s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000119s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000157s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000449s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000496s ]
+
+[ 2016-04-13T22:12:57+08:00 ] 113.105.128.251 /school/Index/head
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001338s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000397s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000442s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000037s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000086s ]
+NOTIC: [8] Undefined variable: manager /wechat/school/School/Runtime/Cache/Admin/a244247bd7cc1a647c72f60747766620.php 第 14 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.005343s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.005385s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000116s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000154s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000401s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000441s ]
+
+[ 2016-04-13T22:13:02+08:00 ] 113.105.128.251 /school/Type/showlist
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000302s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000418s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000473s ]
+ERR: 无法加载控制器:Type
+
+[ 2016-04-13T22:13:03+08:00 ] 113.105.128.251 /school/Article/showArticle
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000293s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000425s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000522s ]
+ERR: 无法加载控制器:Article
+
+[ 2016-04-13T22:13:04+08:00 ] 113.105.128.251 /school/Manager/edit
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000345s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000362s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000409s ]
+ERR: 无法加载控制器:Manager
+
+[ 2016-04-13T22:13:05+08:00 ] 113.105.128.251 /school/Index/left
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000354s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000427s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000478s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000057s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000132s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.005772s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.005821s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000122s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000160s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000458s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000517s ]
+
+[ 2016-04-13T22:13:06+08:00 ] 113.105.128.251 /school/Manager/edit
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000290s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000418s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000465s ]
+ERR: 无法加载控制器:Manager
+
